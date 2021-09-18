@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+viva Mattia Nicastro .... statuina nuova dopodomani
 Use the left arrow to go back!
